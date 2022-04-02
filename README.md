@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,10 +13,15 @@ Behold the backend. This is the back-end RESTful API for an e-commerce website. 
 ## Table of Contents
 
 [Installation](#installation)
+
 [Usage](#usage)
+
 [License](#license)
+
 [Contributing](#contributing)
+
 [Tests](#tests)
+
 [Questions](#questions)
 
 ## Installation
